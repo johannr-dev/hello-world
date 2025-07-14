@@ -18,3 +18,5 @@ gcc hello.c -o hello
 ```bash
 ./hello
 ```
+
+Let's go!
