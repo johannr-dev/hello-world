@@ -19,4 +19,4 @@ gcc hello.c -o hello
 ./hello
 ```
 
-Let's go!
+Let's go
